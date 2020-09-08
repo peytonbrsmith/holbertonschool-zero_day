@@ -1,1 +1,1 @@
-This is the command for opening files in Emacs.
+This directory contains the commands for various functions in EMACS.
