@@ -1,1 +1,1 @@
-**This is some small markdown text**
+**This repository contains the Day Zero project contents for Peyton Smith**
